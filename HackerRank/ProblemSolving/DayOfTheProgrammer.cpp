@@ -4,8 +4,8 @@ From 1700 to 1917, Russia's official calendar was the Julian calendar; since 191
 
 In both calendar systems, February is the only month with a variable amount of days; it has 29 days during a leap year, and 28 days during all other years. In the Julian calendar, leap years are divisible by 4; in the Gregorian calendar, leap years are either of the following:
 
-Divisible by 400.
-Divisible by 4 and not divisible by 100.*/
+1. Divisible by 400.
+2. Divisible by 4 and not divisible by 100.*/
 
 #include<bits/stdc++.h>
 using namespace std;
